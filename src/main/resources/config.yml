@@ -1,0 +1,7 @@
+blocklist:
+  - Material.WHITE_WOOL
+  - Material.WHITE_CONCRETE
+  - Material.WHITE_GLAZED_TERRACOTTA
+  - Material.OAK_PLANKS
+  - Material.STONE
+  - Material.QUARTZ_BLOCK

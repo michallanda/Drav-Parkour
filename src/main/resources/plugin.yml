@@ -1,0 +1,37 @@
+name: dravparkour
+main: com.drav.dravparkour.Main
+version: 1.0
+author: Drav
+load: POSTWORLD
+api-version: 1.16
+commands:
+   pkCorner1:
+      description: Sets the corner for the parkour region (First Corner)
+      usage: /pkCorner1
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   pkCorner2:
+      description: Sets the corner for the parkour region (Second Corner)
+      usage: /pkCorner2
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   pkSpawn:
+      description: Sets the spawn for when a player falls off the parkour
+      usage: /pkSpawn
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   pkStart:
+      description: Sets the location for the pressure plate where players start the parkour
+      usage: /pkStart
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   pkScoreboard:
+      description: Sets the location for the parkour scoreboard
+      usage: /pkScoreboard
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!
+   pkUpdateScore:
+      description: Allows for the updating of a players score
+      usage: /pkUpdateScore
+      permission: dravparkour.pkcontrol
+      permission-message: You don't have permission dravparkour.pkcontrol!

@@ -1,0 +1,10 @@
+.idea
+.vscode
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.eclipse
