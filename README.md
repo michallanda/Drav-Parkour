@@ -1,6 +1,6 @@
 <img align="right" width="100" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/da/Jumping_preview.png/revision/latest?cb=20221007014946">
 
-# Eternal Parkour
+# Drav Parkour
 
 A Spigot plugin that adds a never ending parkour to Minecraft. The blocks autogenerate as the player jumps, and highscores are kept and displayed on a leaderboard.
 
